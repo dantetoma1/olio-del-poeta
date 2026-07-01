@@ -1,0 +1,59 @@
+# Redirect canonical clean URLs -> actual files (200 = rewrite, URL stays clean)
+
+# Force www -> non-www (canonical host)
+https://www.agricolatoma.it/*   https://agricolatoma.it/:splat   301!
+
+# Italian
+/                    /Homepage.dc.html              200
+/shop                /Shop.dc.html                  200
+/prodotto/500ml-bio  /Prodotto.dc.html              200
+/prodotto/kit-scopri-il-poeta  /Prodotto-Kit.dc.html  200
+/territorio          /Territorio.dc.html            200
+/poesie              /Poesie.dc.html                200
+/contatti            /Contatti.dc.html              200
+/faq                 /FAQ.dc.html                   200
+/note-legali         /Legali.dc.html                200
+
+# English
+/en/                 /Homepage-EN.dc.html           200
+/en/shop             /Shop-EN.dc.html               200
+/en/product/500ml-organic  /Prodotto-EN.dc.html     200
+/en/product/discover-the-poet  /Prodotto-Kit-EN.dc.html  200
+/en/terroir          /Territorio-EN.dc.html         200
+/en/poems            /Poesie-EN.dc.html             200
+/en/contacts         /Contatti-EN.dc.html           200
+/en/faq              /FAQ-EN.dc.html                200
+/en/legal            /Legali-EN.dc.html             200
+
+# --- Lotto 2: conserve ---
+/prodotto/olive-denocciolate   /Prodotto-OliveDen.dc.html    200
+/prodotto/olive-arancia        /Prodotto-OliveAr.dc.html     200
+/prodotto/pate-olive-nere      /Prodotto-Pate.dc.html        200
+/en/product/olive-denocciolate /Prodotto-OliveDen-EN.dc.html 200
+/en/product/olive-arancia      /Prodotto-OliveAr-EN.dc.html  200
+/en/product/pate-olive-nere    /Prodotto-Pate-EN.dc.html     200
+
+# --- Lotto 3: regalo & combo ---
+/prodotto/cofanetto-500    /Prodotto-Box500.dc.html      200
+/prodotto/cofanetto-250    /Prodotto-Box250.dc.html      200
+/prodotto/aperitivo-del-poeta  /Prodotto-Aperitivo.dc.html  200
+/prodotto/dono-del-poeta   /Prodotto-Dono.dc.html        200
+/en/product/cofanetto-500  /Prodotto-Box500-EN.dc.html   200
+/en/product/cofanetto-250  /Prodotto-Box250-EN.dc.html   200
+/en/product/aperitivo-del-poeta /Prodotto-Aperitivo-EN.dc.html 200
+/en/product/dono-del-poeta /Prodotto-Dono-EN.dc.html     200
+
+# --- 250 ml bio (pagina dedicata) ---
+/prodotto/250ml-bio        /Prodotto-250-Bio.dc.html     200
+/en/product/250ml-organic  /Prodotto-250-Bio-EN.dc.html  200
+
+# --- Configuratore ---
+/componi              /Componi.dc.html         200
+/en/build-your-box    /Componi-EN.dc.html      200
+
+# --- 250 ml normale ---
+/prodotto/250ml            /Prodotto-250.dc.html         200
+/en/product/250ml          /Prodotto-250-EN.dc.html      200
+
+# Catch-all 404
+/*                   /404.html                      404

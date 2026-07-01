@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="/support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<title>Mappa del sito — L'Olio del Poeta (anteprima navigabile)</title>
+<meta name="robots" content="noindex,nofollow">
+<style>
+  body { margin: 0; }
+  .nav-card { transition: transform .25s cubic-bezier(.16,1,.3,1), box-shadow .3s, border-color .3s; }
+  .nav-card:hover { transform: translateY(-3px); box-shadow: 0 16px 36px rgba(30,36,23,0.14); border-color: rgba(126,46,51,0.4); }
+  a:focus-visible { outline:2px solid #7E2E33; outline-offset:3px; border-radius:2px; }
+  @media (prefers-reduced-motion: reduce){ *,*::before,*::after{ transition:none !important; } }
+</style>
+</helmet>
+
+<div style="width:100%; min-height:100vh; background:radial-gradient(ellipse 90% 60% at 50% 0%, #1E2417 0%, #11160C 60%); color:#F1EADB; font-family:'Newsreader',Georgia,serif; -webkit-font-smoothing:antialiased; padding-bottom:64px;">
+
+  <header style="text-align:center; padding:clamp(48px,7vw,88px) clamp(24px,6vw,80px) clamp(28px,4vw,44px); max-width:760px; margin:0 auto;">
+    <p style="font-family:'Space Grotesk',sans-serif; font-size:11px; letter-spacing:0.26em; text-transform:uppercase; color:#D7C9A4; font-weight:600; margin:0 0 18px;">Anteprima navigabile</p>
+    <h1 style="font-family:'Newsreader',serif; font-weight:300; font-size:clamp(38px,5.5vw,68px); line-height:1.02; letter-spacing:-0.02em; color:#F4EEE0; margin:0 0 18px;">L'Olio del Poeta <em style="font-style:italic; color:#C3CC96;">— mappa del sito</em></h1>
+    <p style="font-family:'Newsreader',serif; font-size:17px; line-height:1.6; color:rgba(241,234,219,0.7); margin:0;">Tutte le pagine del sito in un solo posto. Clicca per aprirle e continuare a rifinirle. I link puntano ai file reali (.dc.html), così funzionano anche in locale.</p>
+    <div style="display:inline-flex; gap:10px; margin-top:26px; background:rgba(241,234,219,0.06); border:1px solid rgba(241,234,219,0.14); border-radius:40px; padding:5px;">
+      <span style="font-family:'Space Grotesk',sans-serif; font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:#1B1D14; background:#D7C9A4; padding:8px 18px; border-radius:40px; font-weight:600;">Italiano</span>
+      <span style="font-family:'Space Grotesk',sans-serif; font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:rgba(241,234,219,0.7); padding:8px 18px; font-weight:600;">+ versione EN per ogni pagina</span>
+    </div>
+  </header>
+
+  <main style="max-width:1080px; margin:0 auto; padding:0 clamp(24px,6vw,80px); display:flex; flex-direction:column; gap:clamp(32px,4vw,48px);">
+
+    <!-- PRINCIPALI -->
+    <section>
+      <div style="font-family:'Space Grotesk',sans-serif; font-size:11px; letter-spacing:0.2em; text-transform:uppercase; color:#7E2E33; font-weight:700; margin:0 0 18px; display:flex; align-items:center; gap:12px;"><span style="width:28px; height:1px; background:#7E2E33; display:inline-block;"></span>Pagine principali</div>
+      <div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:14px;">
+        <sc-for list="{{ main }}" as="p" hint-placeholder-count="7">
+          <div class="nav-card" style="background:rgba(241,234,219,0.04); border:1px solid rgba(241,234,219,0.12); border-radius:7px; padding:18px 20px; display:flex; flex-direction:column; gap:12px;">
+            <div>
+              <div style="font-family:'Newsreader',serif; font-size:21px; color:#F4EEE0; line-height:1.2;">{{ p.label }}</div>
+              <div style="font-family:'Space Grotesk',sans-serif; font-size:11px; color:rgba(241,234,219,0.5); margin-top:3px;">{{ p.note }}</div>
+            </div>
+            <div style="display:flex; gap:8px; margin-top:auto;">
+              <a href="{{ p.it }}" style="flex:1; text-align:center; font-family:'Space Grotesk',sans-serif; font-size:10.5px; letter-spacing:0.1em; text-transform:uppercase; font-weight:600; color:#1B1D14; background:#D7C9A4; text-decoration:none; padding:9px; border-radius:3px;" style-hover="background:#F1EADB;">IT</a>
+              <a href="{{ p.en }}" style="flex:1; text-align:center; font-family:'Space Grotesk',sans-serif; font-size:10.5px; letter-spacing:0.1em; text-transform:uppercase; font-weight:600; color:#D7C9A4; border:1px solid rgba(215,201,164,0.4); text-decoration:none; padding:8px; border-radius:3px;" style-hover="color:#F1EADB; border-color:#D7C9A4;">EN</a>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </section>
+
+    <!-- PRODOTTI -->
+    <section>
+      <div style="font-family:'Space Grotesk',sans-serif; font-size:11px; letter-spacing:0.2em; text-transform:uppercase; color:#7E2E33; font-weight:700; margin:0 0 18px; display:flex; align-items:center; gap:12px;"><span style="width:28px; height:1px; background:#7E2E33; display:inline-block;"></span>Schede prodotto</div>
+      <div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:14px;">
+        <sc-for list="{{ products }}" as="p" hint-placeholder-count="16">
+          <div class="nav-card" style="background:rgba(241,234,219,0.04); border:1px solid rgba(241,234,219,0.12); border-radius:7px; padding:16px 18px; display:flex; flex-direction:column; gap:10px;">
+            <div>
+              <div style="font-family:'Newsreader',serif; font-size:18px; color:#F4EEE0; line-height:1.25;">{{ p.label }}</div>
+              <div style="font-family:'Space Grotesk',sans-serif; font-size:11px; color:#C3CC96; margin-top:3px;">{{ p.price }}</div>
+            </div>
+            <div style="display:flex; gap:8px; margin-top:auto;">
+              <a href="{{ p.it }}" style="flex:1; text-align:center; font-family:'Space Grotesk',sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; font-weight:600; color:#1B1D14; background:#D7C9A4; text-decoration:none; padding:8px; border-radius:3px;" style-hover="background:#F1EADB;">IT</a>
+              <a href="{{ p.en }}" style="flex:1; text-align:center; font-family:'Space Grotesk',sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; font-weight:600; color:#D7C9A4; border:1px solid rgba(215,201,164,0.4); text-decoration:none; padding:7px; border-radius:3px;" style-hover="color:#F1EADB; border-color:#D7C9A4;">EN</a>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </section>
+
+    <!-- UTILITY -->
+    <section>
+      <div style="font-family:'Space Grotesk',sans-serif; font-size:11px; letter-spacing:0.2em; text-transform:uppercase; color:#7E2E33; font-weight:700; margin:0 0 18px; display:flex; align-items:center; gap:12px;"><span style="width:28px; height:1px; background:#7E2E33; display:inline-block;"></span>Servizio &amp; legale</div>
+      <div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:14px;">
+        <sc-for list="{{ utility }}" as="p" hint-placeholder-count="3">
+          <div class="nav-card" style="background:rgba(241,234,219,0.04); border:1px solid rgba(241,234,219,0.12); border-radius:7px; padding:16px 18px; display:flex; flex-direction:column; gap:10px;">
+            <div style="font-family:'Newsreader',serif; font-size:18px; color:#F4EEE0; line-height:1.25;">{{ p.label }}</div>
+            <div style="display:flex; gap:8px; margin-top:auto;">
+              <a href="{{ p.it }}" style="flex:1; text-align:center; font-family:'Space Grotesk',sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; font-weight:600; color:#1B1D14; background:#D7C9A4; text-decoration:none; padding:8px; border-radius:3px;" style-hover="background:#F1EADB;">IT</a>
+              <a href="{{ p.en }}" style="flex:1; text-align:center; font-family:'Space Grotesk',sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; font-weight:600; color:#D7C9A4; border:1px solid rgba(215,201,164,0.4); text-decoration:none; padding:7px; border-radius:3px;" style-hover="color:#F1EADB; border-color:#D7C9A4;">EN</a>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </section>
+
+    <p style="font-family:'Space Grotesk',sans-serif; font-size:11px; line-height:1.6; color:rgba(241,234,219,0.4); text-align:center; margin:24px 0 0;">Pagina di servizio per la navigazione interna (noindex). In produzione su Netlify gli URL puliti sono gestiti dai redirect — questa pagina non sostituisce la home.</p>
+  </main>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1100,&quot;height&quot;:900}}">
+class Component extends DCLogic {
+  renderVals() {
+    const P = (label, base, note, price) => ({
+      label, note: note || '', price: price || '',
+      it: base + '.dc.html', en: base + '-EN.dc.html'
+    });
+    return {
+      main: [
+        P('Home', 'Homepage', 'Pagina principale'),
+        P('Shop', 'Shop', 'Catalogo completo'),
+        P('Componi la scorta', 'Componi', 'Configuratore promo'),
+        P('Territorio', 'Territorio', 'Alto Tavoliere'),
+        P('Poesie', 'Poesie', 'Versi di Lucio'),
+        P('Contatti', 'Contatti', 'Form e recapiti'),
+        P('FAQ', 'FAQ', 'Spedizioni e resi')
+      ],
+      products: [
+        P('Bottiglia 500 ml Bio', 'Prodotto', '€ 18,00'),
+        P('Bottiglia 250 ml Bio', 'Prodotto-250-Bio', '€ 10,00'),
+        P('Bottiglia 500 ml', 'Prodotto-500', '€ 14,00'),
+        P('Bottiglia 250 ml', 'Prodotto-250', '€ 8,00'),
+        P('Bag in Box 1 L', 'Prodotto-Bag1L', '€ 18,00'),
+        P('Bag in Box 3 L', 'Prodotto-Bag3L', '€ 48,00'),
+        P('Bag in Box 3 L Bio', 'Prodotto-Bag3L-Bio', '€ 56,00'),
+        P('Bag in Box 5 L', 'Prodotto-Bag5L', '€ 78,00'),
+        P('Bag in Box 5 L Bio', 'Prodotto-Bag5L-Bio', '€ 86,00'),
+        P('Kit Scopri il Poeta', 'Prodotto-Kit', '€ 15,00'),
+        P('Olive denocciolate', 'Prodotto-OliveDen', 'Conserva'),
+        P("Olive all'arancia", 'Prodotto-OliveAr', 'Conserva'),
+        P('Paté di olive nere', 'Prodotto-Pate', 'Conserva'),
+        P('Cofanetto 2×500 ml', 'Prodotto-Box500', 'Regalo'),
+        P('Cofanetto 250 ml', 'Prodotto-Box250', 'Regalo'),
+        P('Aperitivo del Poeta', 'Prodotto-Aperitivo', '€ 18,00'),
+        P('Il Dono del Poeta', 'Prodotto-Dono', '€ 50,00')
+      ],
+      utility: [
+        P('Privacy & Termini', 'Legali', 'Note legali')
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

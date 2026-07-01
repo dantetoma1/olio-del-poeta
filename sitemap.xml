@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.agricolatoma.it/</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/shop</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/shop"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/shop"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/shop"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/territorio</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/territorio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/terroir"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/territorio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/poesie</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/poesie"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/poems"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/poesie"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/contatti</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/contatti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/contacts"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/contatti"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/faq</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/faq"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/faq"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/note-legali</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/note-legali"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/legal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/note-legali"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/shop</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/shop"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/shop"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/shop"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/terroir</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/territorio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/terroir"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/territorio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/poems</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/poesie"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/poems"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/poesie"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/contacts</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/contatti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/contacts"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/contatti"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/faq</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/faq"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/faq"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/legal</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/note-legali"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/legal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/note-legali"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/500ml-bio</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/500ml-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/500ml-organic"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/500ml-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/250ml-bio</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/250ml-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/250ml-organic"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/250ml-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/kit-scopri-il-poeta</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/kit-scopri-il-poeta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/discover-the-poet"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/kit-scopri-il-poeta"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/500ml</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/500ml"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/500ml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/500ml"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/bag-1l</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-1l"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-1l"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-1l"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/bag-3l</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-3l"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-3l"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-3l"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/bag-3l-bio</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-3l-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-3l-bio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-3l-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/bag-5l</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-5l"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-5l"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-5l"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/bag-5l-bio</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-5l-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-5l-bio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-5l-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/olive-denocciolate</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/olive-denocciolate"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/olive-denocciolate"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/olive-denocciolate"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/olive-arancia</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/olive-arancia"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/olive-arancia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/olive-arancia"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/pate-olive-nere</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/pate-olive-nere"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/pate-olive-nere"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/pate-olive-nere"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/cofanetto-500</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/cofanetto-500"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/cofanetto-500"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/cofanetto-500"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/cofanetto-250</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/cofanetto-250"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/cofanetto-250"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/cofanetto-250"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/aperitivo-del-poeta</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/aperitivo-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/aperitivo-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/aperitivo-del-poeta"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/dono-del-poeta</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/dono-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/dono-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/dono-del-poeta"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/500ml-organic</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/500ml-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/500ml-organic"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/500ml-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/250ml-organic</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/250ml-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/250ml-organic"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/250ml-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/discover-the-poet</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/kit-scopri-il-poeta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/discover-the-poet"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/kit-scopri-il-poeta"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/500ml</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/500ml"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/500ml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/500ml"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/bag-1l</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-1l"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-1l"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-1l"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/bag-3l</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-3l"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-3l"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-3l"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/bag-3l-bio</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-3l-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-3l-bio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-3l-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/bag-5l</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-5l"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-5l"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-5l"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/bag-5l-bio</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/bag-5l-bio"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/bag-5l-bio"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/bag-5l-bio"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/olive-denocciolate</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/olive-denocciolate"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/olive-denocciolate"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/olive-denocciolate"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/olive-arancia</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/olive-arancia"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/olive-arancia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/olive-arancia"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/pate-olive-nere</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/pate-olive-nere"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/pate-olive-nere"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/pate-olive-nere"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/cofanetto-500</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/cofanetto-500"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/cofanetto-500"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/cofanetto-500"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/cofanetto-250</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/cofanetto-250"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/cofanetto-250"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/cofanetto-250"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/aperitivo-del-poeta</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/aperitivo-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/aperitivo-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/aperitivo-del-poeta"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/dono-del-poeta</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/dono-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/dono-del-poeta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/dono-del-poeta"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/prodotto/250ml</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/250ml"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/250ml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/250ml"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.agricolatoma.it/en/product/250ml</loc>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://www.agricolatoma.it/prodotto/250ml"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agricolatoma.it/en/product/250ml"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agricolatoma.it/prodotto/250ml"/>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
